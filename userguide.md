@@ -1,6 +1,7 @@
 # User Guide
 
 __New Feature Alert__
+Added stuff!
 
 ## Install
 
